@@ -1,0 +1,6 @@
+.var_game=AABX;getfold(boot.gfold)
+.var_gname=game.name;get()
+.var_ID=game.ID;get()
+.var_data_game=AABX;getfold(gamedata.gfold)
+
+.load(gamedata)
